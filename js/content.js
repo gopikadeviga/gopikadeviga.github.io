@@ -40,7 +40,6 @@ const PORTFOLIO_DATA = {
     linkedin: "https://linkedin.com/in/gopikadevi",
     github: "https://github.com/gopikadeviga",
 
-    // Put your PDF resume in the assets/ folder and update this path
     resumePath: "assets/Gopika_Devi_CloudSupportEngineer.pdf"
   },
 
