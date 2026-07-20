@@ -1,16 +1,3 @@
-/**
- * ============================================================
- *  PORTFOLIO CONTENT
- * ============================================================
- *  This is the ONLY file you need to edit to update text,
- *  links, projects, or certifications. main.js reads this
- *  object and builds the page automatically — you never need
- *  to touch index.html or styles.css just to change content.
- *
- *  After editing, just save and refresh the browser.
- * ============================================================
- */
-
 const PORTFOLIO_DATA = {
 
   // ---------------------------------------------------------
@@ -19,7 +6,7 @@ const PORTFOLIO_DATA = {
   profile: {
     name: "Gopika Devi",
     initials: "GD",              // shown if avatarImage is left empty
-    avatarImage: "",             // e.g. "assets/gopika.jpg" — leave "" to use initials
+    avatarImage: "assets/Gopika-pp.JPEG",             // e.g. "assets/gopika.jpg" — leave "" to use initials
 
     // Rotates automatically in the sidebar under the name
     roles: [
