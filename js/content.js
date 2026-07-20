@@ -5,8 +5,8 @@ const PORTFOLIO_DATA = {
   // ---------------------------------------------------------
   profile: {
     name: "Gopika Devi",
-    initials: "GD",              // shown if avatarImage is left empty
-    avatarImage: "assets/Gopika-pp.JPEG",             // e.g. "assets/gopika.jpg" — leave "" to use initials
+    initials: "GD",              
+    avatarImage: "assets/Gopika-pp.JPEG",             
 
     // Rotates automatically in the sidebar under the name
     roles: [
@@ -35,15 +35,9 @@ const PORTFOLIO_DATA = {
   // ---------------------------------------------------------
   hero: {
     kicker: "AWS Certified · SAA-C03 · CLF-C02",
-    headline: "Cloud infrastructure, built and verified — not just studied.",
+    headline: "Cloud infrastructure, built and verified",
     lede: "A software developer background, redirected into AWS. Every project below was deployed with a real AWS account, tested under failure, and torn down responsibly — from a Multi-AZ three-tier web app with a live database failover, to a defense-in-depth secure application with keyless admin access. Looking for a Cloud Support or Junior Cloud Engineer seat to grow into Solutions Architect."
   },
-
-  // ---------------------------------------------------------
-  // SKILLS STATUS BOARD — the "AWS service health" panel
-  // Add/remove rows freely — the board renders however many
-  // entries are listed here.
-  // ---------------------------------------------------------
   skills: [
     {
       name: "Networking & Compute",
@@ -66,13 +60,7 @@ const PORTFOLIO_DATA = {
       proof: "Python (boto3) · SQL · Git · AWS CLI · JavaScript fundamentals"
     }
   ],
-
-  // ---------------------------------------------------------
-  // PROJECTS — each renders as one card, filter type "project"
-  //   tags: short chips shown on the card
-  //   links: array of {label, url} — add as many as you like
-  //          (e.g. "Live demo", "GitHub", "Architecture diagram")
-  // ---------------------------------------------------------
+  
   projects: [
     {
       title: "Highly Available Three-Tier Web Application",
