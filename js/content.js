@@ -111,24 +111,28 @@ const PORTFOLIO_DATA = {
     {
       title: "AWS Certified Solutions Architect – Associate",
       subtitle: "SAA-C03 · Issued February 2026",
+      image: "assets/badges/aws-certified-solutions-architect-associate.png",
       tags: ["Architecture", "Well-Architected"],
       links: [ { label: "Verify", url: "https://www.credly.com/badges/df5cae2c-bdc7-4179-9996-db1c07c7a000/public_url" } ]
     },
     {
       title: "AWS Certified Cloud Practitioner",
       subtitle: "CLF-C02 · Issued December 2024",
+      image: "assets/badges/aws-certified-cloud-practitioner.png",
       tags: ["Foundations", "Billing & Security"],
       links: [ { label: "Verify", url: "https://www.credly.com/badges/76ea7534-a952-4e42-8d40-d25a59c6cd6d/public_url" } ]
     },
     {
       title: "AWS re/Start Graduate",
       subtitle: "Completed July 2024 — intensive, full-time cloud training and job-readiness program.",
+      image: "assets/badges/aws-re-start-graduate.png",
       tags: ["Cloud Fundamentals"],
       links: [ { label: "Verify", url: "https://www.credly.com/badges/279c0520-cc2e-4adb-94dd-eb513fdca391/public_url" } ]
     },
     {
       title: "AWS Cloud Quest: Cloud Practitioner",
       subtitle: "Badge earned May 2024 — hands-on, gamified cloud practitioner skill track.",
+      image: "assets/badges/aws-cloud-quest-cloud-practitioner-training-badge.png",
       tags: ["Hands-on Labs"],
       links: [ { label: "Verify", url: "https://www.credly.com/badges/62a1c21c-6719-4569-b209-471507fa081a/public_url" } ]
     }
