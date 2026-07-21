@@ -130,7 +130,7 @@ const PORTFOLIO_DATA = {
       title: "AWS Cloud Quest: Cloud Practitioner",
       subtitle: "Badge earned May 2024 — hands-on, gamified cloud practitioner skill track.",
       tags: ["Hands-on Labs"],
-      links: [ { label: "Verify", url: "https://www.credly.com/" } ]
+      links: [ { label: "Verify", url: "https://www.credly.com/badges/62a1c21c-6719-4569-b209-471507fa081a/public_url" } ]
     }
   ],
 
