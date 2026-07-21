@@ -124,7 +124,7 @@ const PORTFOLIO_DATA = {
       title: "AWS re/Start Graduate",
       subtitle: "Completed July 2024 — intensive, full-time cloud training and job-readiness program.",
       tags: ["Cloud Fundamentals"],
-      links: [ { label: "Verify", url: "https://www.credly.com/" } ]
+      links: [ { label: "Verify", url: "https://www.credly.com/badges/279c0520-cc2e-4adb-94dd-eb513fdca391/public_url" } ]
     },
     {
       title: "AWS Cloud Quest: Cloud Practitioner",
