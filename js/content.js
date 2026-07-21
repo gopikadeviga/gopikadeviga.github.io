@@ -112,7 +112,7 @@ const PORTFOLIO_DATA = {
       title: "AWS Certified Solutions Architect – Associate",
       subtitle: "SAA-C03 · Issued February 2026",
       tags: ["Architecture", "Well-Architected"],
-      links: [ { label: "Verify", url: "https://www.credly.com/" } ]
+      links: [ { label: "Verify", url: "https://www.credly.com/badges/df5cae2c-bdc7-4179-9996-db1c07c7a000/public_url" } ]
     },
     {
       title: "AWS Certified Cloud Practitioner",
