@@ -118,7 +118,7 @@ const PORTFOLIO_DATA = {
       title: "AWS Certified Cloud Practitioner",
       subtitle: "CLF-C02 · Issued December 2024",
       tags: ["Foundations", "Billing & Security"],
-      links: [ { label: "Verify", url: "https://www.credly.com/" } ]
+      links: [ { label: "Verify", url: "https://www.credly.com/badges/76ea7534-a952-4e42-8d40-d25a59c6cd6d/public_url" } ]
     },
     {
       title: "AWS re/Start Graduate",
