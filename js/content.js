@@ -1,16 +1,3 @@
-/**
- * ============================================================
- *  PORTFOLIO CONTENT
- * ============================================================
- *  This is the ONLY file you need to edit to update text,
- *  links, projects, or certifications. main.js reads this
- *  object and builds the page automatically — you never need
- *  to touch index.html or styles.css just to change content.
- *
- *  After editing, just save and refresh the browser.
- * ============================================================
- */
-
 const PORTFOLIO_DATA = {
 
   // ---------------------------------------------------------
@@ -135,7 +122,7 @@ const PORTFOLIO_DATA = {
     {
       title: "AWS Certified Solutions Architect – Associate",
       subtitle: "SAA-C03 · Issued February 2026",
-      image: "assets/badges/aws-certified-cloud-practitioner.png",
+      image: "assets/badges/aws-certified-solution-architect-associate.png",
       tags: ["Architecture", "Well-Architected"],
       links: [ { label: "Verify", url: "https://www.credly.com/badges/df5cae2c-bdc7-4179-9996-db1c07c7a000/public_url" } ]
     },
