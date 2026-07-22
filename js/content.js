@@ -134,7 +134,7 @@ const PORTFOLIO_DATA = {
     kicker: "Background",
     title: "The pivot",
     paragraphs: [
-      "I made a deliberate shift from full-stack development into cloud infrastructure — taking a structured course to earn the AWS Cloud Practitioner certification, then studying independently from scratch to pass the Solutions Architect – Associate exam, and building six projects from a blank AWS account: architectures I broke, monitored, and fixed myself.",
+      "I made a deliberate shift from full-stack development into cloud infrastructure — taking a structured course to earn the AWS Cloud Practitioner certification, then studying independently from scratch to pass the Solutions Architect – Associate exam, and building projects from a blank AWS account: architectures I broke, monitored, and fixed myself.",
       "My development background gave me a head start on the tooling — Git discipline, scripting, debugging. The projects below are where I built the rest: networking, security, and operational judgment under real failure conditions. What's new is the infrastructure layer: VPCs, IAM boundaries, and the instinct to check CloudWatch before I panic."
     ]
   },
