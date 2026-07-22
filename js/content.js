@@ -22,7 +22,7 @@ const PORTFOLIO_DATA = {
     linkedin: "https://linkedin.com/in/gopikadevi",
     github: "https://github.com/gopikadeviga",
 
-    resumePath: "assets/Gopika_Devi_CloudSupportEngineer.pdf"
+    resumePath: "assets/assets/Gopika_Devi_Cloud_Support_Engineer_CV.pdf"
   },
 
   // HERO — top of the page
