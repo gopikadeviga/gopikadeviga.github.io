@@ -55,7 +55,7 @@ const PORTFOLIO_DATA = {
       proof: "Python (boto3) · SQL · Git · AWS CLI · JavaScript fundamentals"
     }
   ],
-
+  
   projects: [
     {
       title: "Highly Available Three-Tier Web Application",
