@@ -19,6 +19,7 @@
   --sans: 'IBM Plex Sans', -apple-system, sans-serif;
 }
 
+
 [data-theme="light"]{
   --bg: #e9ebee;
   --panel: #ffffff;
